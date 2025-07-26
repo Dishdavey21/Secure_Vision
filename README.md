@@ -15,8 +15,10 @@ Secure Vision is a robust deepfake detection framework built using PyTorch and M
 ```
 Secure_Vision/
 │
-├── Dataset/                   # Training and testing dataset (Git LFS)
-├── trained_model.pth         # Trained MobileNet model weights (Git LFS)
+├── Dataset/                  # Training and testing dataset 
+├── dataset links/
+├── wandb/               
+├── trained_model.pth         # Trained MobileNet model weights 
 ├── WebApp/                   # Flask-based web application for demo
 ├── SV_MObilenet.ipynb        # Training notebook for MobileNet model
 ├── Playground.ipynb          # Testing and inference notebook
