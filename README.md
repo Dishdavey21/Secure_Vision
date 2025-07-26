@@ -55,7 +55,7 @@ Secure Vision achieves high accuracy in detecting facial manipulations, tested a
 
 ## 📌 Credits
 
-Developed by **Disha H. Davey**, a final year Data Science student passionate about secure AI, computer vision, and ethical technology.
+Developed by **Khushi Chelani**,**Disha Davey** and **Kanishka Patwal**, final year Computer Science students passionate about secure AI, computer vision, and ethical technology.
 
 ---
 
