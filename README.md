@@ -60,3 +60,5 @@ Developed by **Khushi Chelani**,**Disha Davey** and **Kanishka Patwal**, final y
 ---
 
 > Protecting reality in a world of illusions — one frame at a time.
+>
+> BY: Disha H Davey, Kanishka Patwal, Khushi Chelani 
