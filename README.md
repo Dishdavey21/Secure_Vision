@@ -2,7 +2,7 @@
 
 Secure Vision is a robust deepfake detection framework built using PyTorch and MobileNet, designed to address the rising threat of synthetic media in digital ecosystems. With the growing prevalence of AI-generated videos that can manipulate reality, Secure Vision aims to detect manipulated content with precision, speed, and efficiency.
 
-## 🚀 Project Highlights
+##  Project Highlights
 
 - **Model Architecture**: Leveraged MobileNet for its lightweight and high-performance capabilities, making the solution suitable for real-time applications.
 - **Training Pipeline**: Custom training loop implemented in PyTorch using a curated dataset of real and fake videos.
@@ -10,7 +10,7 @@ Secure Vision is a robust deepfake detection framework built using PyTorch and M
 - **User Interface**: Integrated web application allows easy upload and analysis of suspect videos.
 - **Optimized Assets**: All large files (models, video outputs) managed using Git LFS for seamless version control and collaboration.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Secure_Vision/
@@ -36,24 +36,24 @@ Secure_Vision/
 3. **Post-processing**: Results are overlaid onto video frames, producing an annotated video output.
 4. **Web Interface**: Users can upload videos and view results directly through a simple front-end.
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - **Languages**: Python
 - **Libraries**: PyTorch, OpenCV, NumPy, Flask, Matplotlib
 - **Model**: MobileNet (custom-trained)
 - **Tools**: Git LFS, Google Colab, Jupyter Notebooks
 
-## 📊 Results
+## Results
 
 Secure Vision achieves high accuracy in detecting facial manipulations, tested across multiple synthetic datasets. The model demonstrates strong generalization with real-world spoofed content and can be fine-tuned further for enterprise-grade applications.
 
-## 🧩 Future Enhancements
+##  Future Enhancements
 
 - Expand to detect audio-based deepfakes
 - Deploy on edge devices for mobile forensics
 - Incorporate facial landmark heatmaps for interpretability
 
-## 📌 Credits
+## Credits
 
 Developed by **Disha Davey**,**Kanishka Patwal**, **Khushi Chelani**, final year Computer Science students passionate about secure AI, computer vision, and ethical technology.
 
